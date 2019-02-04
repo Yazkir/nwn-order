@@ -112,7 +112,7 @@ https://developer.github.com/webhooks/creating/
 
 When the docker-compose does go up, order will spit out an external facing IP and port. 
 
-You will need to go into gitub and enable the webhook.
+You will need to go into github and enable the webhook.
 
 Example:
 ![Image of Github](https://github.com/Urothis/nwn-order/blob/master/docs/Github_Screenshot.png)
